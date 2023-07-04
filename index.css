@@ -40,29 +40,29 @@ h1{
 }
 
 .card-1{
-    background-image: url('/images/lamborgini\ 1.jpg');
+    background-image: url('/lamborgini\ 1.jpg');
 }
 
 .card-2{
-    background-image: url('/images/bugatti.webp');
+    background-image: url('/bugatti.webp');
 }
 .card-3{
-    background-image: url('/images/henry.jpg');
+    background-image: url('/henry.jpg');
 }
 .card-4{
-    background-image: url('/images/maclaren.jpg');
+    background-image: url('/maclaren.jpg');
 }
 .card-5{
-    background-image: url('/images/lotus.jpg');
+    background-image: url('/lotus.jpg');
 }
 .card-6{
-    background-image: url('/images/mitsubisi.jpg');
+    background-image: url('/mitsubisi.jpg');
 }
 .card-7{
-    background-image: url('/images/AstonMartin.jpg');
+    background-image: url('/AstonMartin.jpg');
 }
 .card-8{
-    background-image: url('/images/Audi.jpg');
+    background-image: url('/Audi.jpg');
 }
 
 .card h2{
